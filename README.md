@@ -1,5 +1,7 @@
 ## Stacey and Sid 2018 travel blog
 
+https://staceyandsid.com/
+
 This is a website Stacey made while we were travelling. It was initially on squarespace but the $16/month was a lot once we stopped actively updating it so I decided to migrate it off of squarespace. The below outlines the process (mostly so I can remember what all I did).
 
 ### Process of migrating off squarespace
